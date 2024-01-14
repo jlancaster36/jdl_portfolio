@@ -4,4 +4,4 @@
 See the code here: https://github.com/jlancaster36/jdl_portfolio/blob/main/animations/p2b_animation.pde
 
 
-![](https://github.com/jlancaster36/jdl_portfolio/racing.gif)
+![alt-text](https://github.com/jlancaster36/jdl_portfolio/racing.gif)
